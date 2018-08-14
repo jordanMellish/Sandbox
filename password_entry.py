@@ -1,3 +1,6 @@
 """
 Jordan
 """
+
+def main():
+    return
